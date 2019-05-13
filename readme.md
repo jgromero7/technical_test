@@ -40,7 +40,7 @@ $ php artisan migrate
 ```
 
 #### Importar información de Diccionario
-Importar en la base de datos creada el archivo  [dictioary.sql](https://github.com/barryvdh/laravel-dompdf) que se encuentra en el proyecto [database/dictioary.sql](https://github.com/barryvdh/laravel-dompdf) con esto tenemos toda la data necesaria para tener nuestro proyecto en ejecución y funcionamiento
+Importar en la base de datos creada el archivo  [dictionary.sql](https://github.com/jgromero7/technical_test/blob/master/sql/dictionary.sql) que se encuentra en el proyecto [sql/dictionary.sql](https://github.com/jgromero7/technical_test/blob/master/sql/dictionary.sql) con esto tenemos toda la data necesaria para tener nuestro proyecto en ejecución y funcionamiento
 
 
 #### Ejecutar el proyecto
